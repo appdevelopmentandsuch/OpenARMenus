@@ -18,12 +18,14 @@ public class TwoDMenu : MonoBehaviour
     //=====================================================//
     public int Width = 200;
     public int Height = 200;
+
     //=====================================================//
     //=======================COLORS========================//
     //=====================================================//
     public Color MenuColor = Color.clear;
     public Color MenuImageColor = Color.clear;
     public Color MenuImageFilledColor = Color.clear;
+    public float MenuImageFilledOpacity = 0.3f;
     
     //=====================================================//
     //=======================IMAGES========================//
@@ -91,7 +93,7 @@ public class TwoDMenu : MonoBehaviour
             MenuImageFilledColor = Color.white;
         }
 
-        MenuImageFilledColor.a = 0.3f;
+        MenuImageFilledColor.a = MenuImageFilledOpacity;
         MenuMain.GetComponent<Image>().color = MenuImageColor;
         MenuMainFilled.GetComponent<Image>().color = MenuImageFilledColor;
     }
