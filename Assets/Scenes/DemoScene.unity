@@ -722,7 +722,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -741,9 +741,13 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'App Development and Such
+  m_Text: 'SPEED: 50KM/H
 
-    OpenARMenus'
+
+    RPM: 2800
+
+
+    DIR: N/W'
 --- !u!222 &643817528
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1356,7 +1360,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -100, y: 1, z: -364}
+  m_LocalPosition: {x: 306, y: 1, z: -653.9}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -1831,12 +1835,12 @@ PrefabInstance:
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: MenuColor.r
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: MenuColor.g
-      value: 1
+      value: 0.20065165
       objectReference: {fileID: 0}
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
@@ -1856,7 +1860,7 @@ PrefabInstance:
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: MenuImageColor.g
-      value: 0.47320843
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
@@ -1871,7 +1875,7 @@ PrefabInstance:
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: MenuImageFilledColor.g
-      value: 0.47320843
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
@@ -1886,42 +1890,42 @@ PrefabInstance:
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: MenuImageColor.r
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -6953075538001052008, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: MenuImageFilledColor.r
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2235475372124561699, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: m_AnchorMin.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2235475372124561699, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2235475372124561699, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 100
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2235475372124561699, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -275
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2235475372124561699, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: m_SizeDelta.x
-      value: 180
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2235475372124561699, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 250
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3472143096468755828, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
@@ -2046,7 +2050,7 @@ PrefabInstance:
     - target: {fileID: 6645492415928483602, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9091180965175332793, guid: 1d43bbf81a60987ffa74e4196499b848,
         type: 3}
