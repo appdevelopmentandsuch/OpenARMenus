@@ -2,7 +2,7 @@
 
 [![CodeFactor](https://www.codefactor.io/repository/github/appdevelopmentandsuch/openarmenus/badge)](https://www.codefactor.io/repository/github/appdevelopmentandsuch/openarmenus)
 
-## Fully customizable, open source, easy to use, menus for Unity
+## Fully customizable, easy to use, menus for Unity
 
 (Collision detection coming soon!)
 
