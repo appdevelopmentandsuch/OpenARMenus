@@ -1,6 +1,14 @@
 # OpenARMenus
 
 [![CodeFactor](https://www.codefactor.io/repository/github/appdevelopmentandsuch/openarmenus/badge)](https://www.codefactor.io/repository/github/appdevelopmentandsuch/openarmenus)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/appdevelopmentandsuch/OpenARMenus/graphs/commit-activity)
+[![GitHub license](https://img.shields.io/github/license/appdevelopmentandsuch/OpenARMenus.svg)](https://github.com/appdevelopmentandsuch/OpenARMenus/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/appdevelopmentandsuch/OpenARMenus.svg)](https://GitHub.com/appdevelopmentandsuch/OpenARMenus/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/appdevelopmentandsuch/OpenARMenus.svg)](https://GitHub.com/appdevelopmentandsuch/OpenARMenus/tags/)
+[![Github all releases](https://img.shields.io/github/downloads/appdevelopmentandsuch/OpenARMenus/total.svg)](https://GitHub.com/appdevelopmentandsuch/OpenARMenus/releases/)
+[![GitHub stars](https://img.shields.io/github/stars/appdevelopmentandsuch/OpenARMenus.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/appdevelopmentandsuch/OpenARMenus/stargazers/)
+[![GitHub issues](https://img.shields.io/github/issues/appdevelopmentandsuch/OpenARMenus.svg)](https://GitHub.com/appdevelopmentandsuch/OpenARMenus/issues/)
+[![GitHub issues-closed](https://img.shields.io/github/issues-closed/appdevelopmentandsuch/OpenARMenus.svg)](https://GitHub.com/appdevelopmentandsuch/OpenARMenus/issues?q=is%3Aissue+is%3Aclosed)
 
 ## Fully customizable, easy to use, menus for Unity
 
